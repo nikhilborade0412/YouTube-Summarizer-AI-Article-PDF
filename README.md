@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-👉 *Link:-*(https://youtube-summarizer-ai-article-pdf-nkkvwto8nwkcmyfithzhgs.streamlit.app/)
+👉 *Link:-* https://youtube-summarizer-ai-article-pdf-nkkvwto8nwkcmyfithzhgs.streamlit.app/
 
 ---
 
