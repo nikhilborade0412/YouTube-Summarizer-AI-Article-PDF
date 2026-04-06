@@ -7,7 +7,7 @@
 ![Groq](https://img.shields.io/badge/Groq-LLaMA--3-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
----
+--- 
 
 ## 🚀 Live Demo
 
