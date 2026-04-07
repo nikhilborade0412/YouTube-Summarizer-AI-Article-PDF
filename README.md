@@ -1,5 +1,7 @@
 # 🎬 YouTube Summarizer AI → Article & PDF
 
+![Thumbnail](image/thumbnail.png)
+
 > Convert any YouTube video into a structured AI-generated article and downloadable PDF in seconds.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
@@ -51,6 +53,7 @@
 ## 🗂 Project Structure
 
 ```
+
 yt_to_article/
 │
 ├── app.py
@@ -61,7 +64,8 @@ yt_to_article/
 │
 ├── requirements.txt
 └── README.md
-```
+
+````
 
 ---
 
@@ -72,7 +76,7 @@ yt_to_article/
 ```bash
 git clone https://github.com/YOUR_USERNAME/youtube-summarizer-ai.git
 cd yt_to_article
-```
+````
 
 ### 2. Install Dependencies
 
